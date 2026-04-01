@@ -1,3 +1,5 @@
 pyrightconfig.json
 .env
 .adk/
+__pycache__
+*.pyc
